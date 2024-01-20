@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["👑 I am RTX","Spotify","Youtube","SUBSCRIBE❤️","THANKS 🌇"];
+const statusMessages = ["https://discord.gg/bj6SfuGnmU🌇","#WeAreCostaRicaRP"];
 
 
 let currentIndex = 0;
